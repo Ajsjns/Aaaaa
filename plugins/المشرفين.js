@@ -13,7 +13,7 @@ ${oi}
 ${listAdmin}
 
 *[ ⚠ ️] هذا الامر للحالات الطارئه فقط!!*`.trim()
-conn.sendFile(m.chat, 👒, 'Menu.⚡️', text, 🀄, false, { mentions: [...groupAdmins.map(v => v.id), owner] })
+conn.sendFile(m.chat, , 'Menu.⚡️', text, 🀄, false, { mentions: [...groupAdmins.map(v => v.id), owner] })
 }
 handler.help = ['admins <texto>']
 handler.tags = ['group']
