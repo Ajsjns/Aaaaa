@@ -1718,7 +1718,7 @@ function clockString(ms) {
                    },
                    {
              name: "cta_url",
-             buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":" https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p","merchant_url":"https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p "}'
+             buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":" https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p","merchant_url":" https://whatsapp.com/channel/0029VanIroV7YScwYEsjNv1N "}'
                           }
                       ]
                   }
