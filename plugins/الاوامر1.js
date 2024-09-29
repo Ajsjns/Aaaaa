@@ -72,7 +72,7 @@ let str = `
 
 *المطور:*
 🤖┋*Boudy*┋🤖
-* [33760509044@S.WHATSAPP.NET] * 
+* [33760509044] * 
 ‬`.trim();
 
 conn.sendMessage(m.chat, {
