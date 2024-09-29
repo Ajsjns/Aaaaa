@@ -1,8 +1,8 @@
 let handler  = async (m, { conn }) => {
-conn.reply(m.chat,`*اي رأيك تشوف🐱‍👤*:\n*ꔹ━━━━━ꔹ❰ افلام غموض ❱ꔹ━━━━━ꔹ*\n*『${pickRandom(global.bxviu)}』*\n*ꔹ━━━━━ꔹ❰ 𝙕𝙊𝙍𝙊-𝘽𝙊𝙏 ❱*`, m)
+conn.reply(m.chat,`*اي رأيك تشوف🐱‍👤*:\n*ꔹ━━━━━ꔹ❰ افلام غموض ❱ꔹ━━━━━ꔹ*\n*『${pickRandom(global.bxviu)}』*\n*ꔹ━━━━━ꔹ❰ OBITO-𝘽𝙊𝙏 ❱*`, m)
   m.react('🎞')
 }
-handler.help = ['Z O R O']
+handler.help = ['O B I T O']
 handler.tags = ['fun']
 handler.command = /فيلم-غموض$/i
 export default handler
