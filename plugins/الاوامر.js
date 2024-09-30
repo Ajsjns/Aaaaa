@@ -217,8 +217,8 @@ let str = `
 ✯≼══━━﹂⛩️﹁━━══≽✯
 
 *المطور:*
-🤖┋*Boudy*┋🤖
-*https://api.whatsapp.com/send/?phone=01151094460*
+🤖┋*Developer *┋🤖
+*33760509044@s.whatsapp.net*
 ‬`.trim();
 
 conn.sendMessage(m.chat, {
@@ -254,4 +254,4 @@ function clockString(ms) {
         res = "مساء الخير 🌙"
       }
       return res
-      }
+    }
